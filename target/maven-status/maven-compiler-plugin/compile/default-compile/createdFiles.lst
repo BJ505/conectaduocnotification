@@ -1,0 +1,9 @@
+com\conectaduoc\exception\ResourceNotFoundException.class
+com\conectaduoc\ConectaDuocApplication.class
+com\conectaduoc\model\GlobalNotification.class
+com\conectaduoc\config\WebConfig.class
+com\conectaduoc\repository\GlobalNotificationRepository.class
+com\conectaduoc\controller\GlobalNotificationController.class
+com\conectaduoc\exception\GlobalExceptionHandler.class
+com\conectaduoc\service\GlobalNotificationService.class
+com\conectaduoc\config\WebConfig$1.class
